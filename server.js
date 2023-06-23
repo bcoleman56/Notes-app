@@ -34,6 +34,6 @@ app.get('*', (req,res) => {
 
 // Listens for requests at defined port
 app.listen(PORT, () => {
-    console.log(`App listening at http://localhost:${PORT}`)
+    console.log(`App listening on port ${PORT}`);
 });
 
