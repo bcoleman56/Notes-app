@@ -1,0 +1,20 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "## License [![License Badge]( https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen )]( https://opensource.org/licenses/MIT )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcoleman56/Notes-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcoleman56/Notes-app/issues"
+  },
+  "homepage": "https://github.com/bcoleman56/Notes-app#readme"
+}
