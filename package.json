@@ -4,7 +4,8 @@
   "description": "## License [![License Badge]( https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen )]( https://opensource.org/licenses/MIT )",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
   },
   "repository": {
     "type": "git",
