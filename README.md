@@ -43,6 +43,6 @@ N/A
 
 Email: brettcoleman369@gmail.com
 
-GitHub: github.com/bcoleman56
+GitHub: github.com/bcoleman56/Notes-app
 
 
